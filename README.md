@@ -6,4 +6,4 @@ HELLO!
 
 # to wrap the new files to send it to github we do: git add (filename) >> now this file is called "Staged"
 
-# now we need to commit the new file, we write:      git commit -m "Initial commit" 
+ now we need to commit the new file, we write: git commit -m "Initial commit" 
